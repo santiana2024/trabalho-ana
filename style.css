@@ -1,0 +1,25 @@
+
+body{
+    background-color: #7e7e7e;
+    color: rgb(206, 51, 159);
+    text-align: centro;
+    font-size: 20px;
+    padding: o 24px;
+}
+
+body{
+    background-color: aquamarine;
+    color: rgb(60, 98, 204);
+    text-align-last: centro;
+    font-size: 22px;
+    padding: 0 25px;
+ }
+
+.imagem{
+    width: 15%;
+}
+
+.imagem2{
+width: 10%;
+
+}
